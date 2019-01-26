@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72502" started-at="2019-01-16T10:56:24Z" finished-at="2019-01-16T10:57:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72502" started-at="2019-01-16T10:56:24Z" finished-at="2019-01-16T10:57:37Z">
+      <class name="JayTest2.JayExcercise1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="setup" is-config="true" duration-ms="42538" started-at="2019-01-16T10:56:24Z" finished-at="2019-01-16T10:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSearch()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="testSearch" duration-ms="29001" started-at="2019-01-16T10:57:07Z" finished-at="2019-01-16T10:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="tearDown" is-config="true" duration-ms="935" started-at="2019-01-16T10:57:36Z" finished-at="2019-01-16T10:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- JayTest2.JayExcercise1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
