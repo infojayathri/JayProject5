@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="72502" started-at="2019-01-16T10:56:24Z" finished-at="2019-01-16T10:57:37Z">
+  <suite name="Default suite" duration-ms="19680" started-at="2019-01-27T08:18:23Z" finished-at="2019-01-27T08:18:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="72502" started-at="2019-01-16T10:56:24Z" finished-at="2019-01-16T10:57:37Z">
+    <test name="Default test" duration-ms="19680" started-at="2019-01-27T08:18:23Z" finished-at="2019-01-27T08:18:42Z">
       <class name="JayTest2.JayExcercise1">
-        <test-method status="PASS" signature="setup()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="setup" is-config="true" duration-ms="42538" started-at="2019-01-16T10:56:24Z" finished-at="2019-01-16T10:57:07Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="setup" is-config="true" duration-ms="9678" started-at="2019-01-27T08:18:23Z" finished-at="2019-01-27T08:18:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testSearch()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="testSearch" duration-ms="29001" started-at="2019-01-16T10:57:07Z" finished-at="2019-01-16T10:57:36Z">
+        <test-method status="PASS" signature="testSearch()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="testSearch" duration-ms="8592" started-at="2019-01-27T08:18:32Z" finished-at="2019-01-27T08:18:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearch -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="tearDown" is-config="true" duration-ms="935" started-at="2019-01-16T10:57:36Z" finished-at="2019-01-16T10:57:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:JayTest2.JayExcercise1@3bfdc050]" name="tearDown" is-config="true" duration-ms="1374" started-at="2019-01-27T08:18:41Z" finished-at="2019-01-27T08:18:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
